@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 3, 2018
 
 ### Student Name:  
-(First and Last Name)
+Fabuola Pierre
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using jQuery library to make recipe display app interactive.
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://fabuolap.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Use jQuery library to implement common JavaScript tasks
+2. Use event listeners to call the display() function
+3. How to use the jQuery hover() method 
 
